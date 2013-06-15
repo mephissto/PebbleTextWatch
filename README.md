@@ -11,7 +11,7 @@ A video with the text changing animation can be found here: http://www.youtube.c
 
 Updated with a stylistic date in the bottom-right corner.
 
-[Download .pbw](http://www.mypebblefaces.com/view?fID=1350&aName=PEP&pageTitle=Text+with+Small+Date&auID=1585)
+[Download .pbw](http://www.mypebblefaces.com/view?fID=4079&aName=mephissto&pageTitle=Pebble+Text+Watch+with+full+Date&auID=4218)
 
 Screenshot:  
 ![Pebble Text Watch with Date](http://d.pr/i/I3Ta+)
